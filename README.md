@@ -28,7 +28,7 @@
 - Улучшение автоматизации и отчётности с Allure
 
 #####Как запустить тесты и вывести Allere отчет 
-Запустить файл Main 
-mvn clean test в терминале IDEJ(BASH)(альт+ф12)
-allure serve target/allure-results(BASH)
+-Запустить файл Main 
+-mvn clean test в терминале IDEJ(BASH)(альт+ф12)
+-allure serve target/allure-results(BASH)
 
