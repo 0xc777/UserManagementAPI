@@ -29,6 +29,6 @@
 
 ##Как запустить тесты и вывести AllUre отчет 
 - Запустить файл Main 
-- mvn clean test в терминале IDEJ(BASH)(альт+ф12)
-- allure serve target/allure-results(BASH)
+- mvn clean test в терминале IDEJ(альт+ф12)
+- allure serve target/allure-results
 
